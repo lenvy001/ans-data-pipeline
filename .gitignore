@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data inputs/outputs
+/data/raw/*.csv
+/data/raw/zips/
+/data/extracted/
+/data/processed/
+/zips_csv/
+
+# Archives
+*.zip
